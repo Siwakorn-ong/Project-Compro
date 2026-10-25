@@ -1,0 +1,3 @@
+10001|Egg Sandwich|25
+10002|Grilled Cheese|35
+10003|Bear Plushie|120
