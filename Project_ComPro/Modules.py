@@ -68,15 +68,4 @@ def report_product(productfile, salefile):
     body += f'\nTotal income for the day: {alltotal:,.2f} Baht.\n'
     print(title)
     print(head)
-    print(body)
-
-    
-
-    
-
-
-
-
-
-
-    
+    print(body)    
