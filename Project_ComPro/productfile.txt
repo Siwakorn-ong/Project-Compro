@@ -1,3 +1,5 @@
-10001|Egg Sandwich|25
-10002|Grilled Cheese|35
-10003|Bear Plushie|120
+10001|Egg Sandwich|25.00
+10002|Grilled Cheese|35.00
+10003|Ham Toast|30.00
+10004|Tea|15.00
+10005|Coffee|40.00
